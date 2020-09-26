@@ -1,3 +1,7 @@
+Пилотный реакт-проект: реализация чата, осуществляемого посредством соединения с сервером через WebSocket-соединение
+
+## ___________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
