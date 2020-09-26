@@ -1,0 +1,15 @@
+.chat-window {
+    box-shadow: 0 0 80px 10px black;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 400px;
+    margin-bottom: 15px;
+
+}
+
+input[type=text] {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
